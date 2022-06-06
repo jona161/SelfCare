@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SelfCare</string>
+    <string name="title_home">SelfCare</string>
+    <string name="title_dashboard">SelfCare</string>
+    <string name="title_notifications">SelfCare</string>
+    <string name="hello_blank_fragment">Selfcare</string>
+    <string name="vorderseite">Vorderseite</string>
+    <string name="r_ckseite">Rückseite</string>
+    <string name="konto">Konto</string>
+</resources>
