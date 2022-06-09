@@ -38,21 +38,11 @@ class MainActivity : AppCompatActivity() {
             )
         )
 
-        /*val imageButton: ImageButton = findViewById(R.id.imageButton)
-        //var temp = false
-        imageButton.setOnClickListener{
-            //if(!temp){
-               // imageButton.visibility = View.INVISIBLE
-            //}else{
-                imageButton.visibility = View.VISIBLE
-            //}
-        }
-        */
-
-
         setupActionBarWithNavController(navController, appBarConfiguration)
         navView.setupWithNavController(navController)
 
     }
+
+
 }
 
